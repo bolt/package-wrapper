@@ -1,0 +1,14 @@
+{
+    "name": "bolt/package-wrapper",
+    "description": "A wrapper to pull in required packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gawain Lynch",
+            "email": "gawain.lynch@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    }
+}
