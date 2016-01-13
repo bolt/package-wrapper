@@ -10,5 +10,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
+        "guzzlehttp/guzzle": "^5.3 || ^6.1"
     }
 }
