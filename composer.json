@@ -10,6 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "guzzlehttp/guzzle": "^5.3.1 || ^6.2.1"
+        "php": "^7.1",
+        "doctrine/persistence": "^1.0"
     }
 }
